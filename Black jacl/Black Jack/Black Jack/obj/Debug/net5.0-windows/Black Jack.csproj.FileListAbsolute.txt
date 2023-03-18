@@ -1,0 +1,37 @@
+E:\coding\Black jacl\Black Jack\Black Jack\obj\Debug\net5.0-windows\Black Jack.csproj.AssemblyReference.cache
+E:\coding\Black jacl\Black Jack\Black Jack\obj\Debug\net5.0-windows\Black Jack.csproj.GenerateResource.cache
+E:\coding\Black jacl\Black Jack\Black Jack\obj\Debug\net5.0-windows\Black Jack.GeneratedMSBuildEditorConfig.editorconfig
+E:\coding\Black jacl\Black Jack\Black Jack\obj\Debug\net5.0-windows\Black Jack.AssemblyInfoInputs.cache
+E:\coding\Black jacl\Black Jack\Black Jack\obj\Debug\net5.0-windows\Black Jack.AssemblyInfo.cs
+E:\coding\Black jacl\Black Jack\Black Jack\obj\Debug\net5.0-windows\Black Jack.csproj.CoreCompileInputs.cache
+E:\coding\Black jacl\Black Jack\Black Jack\bin\Debug\net5.0-windows\Black Jack.exe
+E:\coding\Black jacl\Black Jack\Black Jack\bin\Debug\net5.0-windows\Black Jack.deps.json
+E:\coding\Black jacl\Black Jack\Black Jack\bin\Debug\net5.0-windows\Black Jack.runtimeconfig.json
+E:\coding\Black jacl\Black Jack\Black Jack\bin\Debug\net5.0-windows\Black Jack.runtimeconfig.dev.json
+E:\coding\Black jacl\Black Jack\Black Jack\bin\Debug\net5.0-windows\Black Jack.dll
+E:\coding\Black jacl\Black Jack\Black Jack\bin\Debug\net5.0-windows\ref\Black Jack.dll
+E:\coding\Black jacl\Black Jack\Black Jack\bin\Debug\net5.0-windows\Black Jack.pdb
+E:\coding\Black jacl\Black Jack\Black Jack\obj\Debug\net5.0-windows\Black Jack.dll
+E:\coding\Black jacl\Black Jack\Black Jack\obj\Debug\net5.0-windows\ref\Black Jack.dll
+E:\coding\Black jacl\Black Jack\Black Jack\obj\Debug\net5.0-windows\Black Jack.pdb
+E:\coding\Black jacl\Black Jack\Black Jack\obj\Debug\net5.0-windows\Black Jack.genruntimeconfig.cache
+E:\coding\Black jacl\Black Jack\Black Jack\obj\Debug\net5.0-windows\Black_Jack.Properties.Resources.resources
+E:\coding\Black jacl\Black Jack\Black Jack\obj\Debug\net5.0-windows\Black_Jack.Form1.resources
+G:\coding\Black jacl\Black Jack\Black Jack\bin\Debug\net5.0-windows\Black Jack.exe
+G:\coding\Black jacl\Black Jack\Black Jack\bin\Debug\net5.0-windows\Black Jack.deps.json
+G:\coding\Black jacl\Black Jack\Black Jack\bin\Debug\net5.0-windows\Black Jack.runtimeconfig.json
+G:\coding\Black jacl\Black Jack\Black Jack\bin\Debug\net5.0-windows\Black Jack.runtimeconfig.dev.json
+G:\coding\Black jacl\Black Jack\Black Jack\bin\Debug\net5.0-windows\Black Jack.dll
+G:\coding\Black jacl\Black Jack\Black Jack\bin\Debug\net5.0-windows\ref\Black Jack.dll
+G:\coding\Black jacl\Black Jack\Black Jack\bin\Debug\net5.0-windows\Black Jack.pdb
+G:\coding\Black jacl\Black Jack\Black Jack\obj\Debug\net5.0-windows\Black_Jack.Form1.resources
+G:\coding\Black jacl\Black Jack\Black Jack\obj\Debug\net5.0-windows\Black_Jack.Properties.Resources.resources
+G:\coding\Black jacl\Black Jack\Black Jack\obj\Debug\net5.0-windows\Black Jack.csproj.GenerateResource.cache
+G:\coding\Black jacl\Black Jack\Black Jack\obj\Debug\net5.0-windows\Black Jack.GeneratedMSBuildEditorConfig.editorconfig
+G:\coding\Black jacl\Black Jack\Black Jack\obj\Debug\net5.0-windows\Black Jack.AssemblyInfoInputs.cache
+G:\coding\Black jacl\Black Jack\Black Jack\obj\Debug\net5.0-windows\Black Jack.AssemblyInfo.cs
+G:\coding\Black jacl\Black Jack\Black Jack\obj\Debug\net5.0-windows\Black Jack.csproj.CoreCompileInputs.cache
+G:\coding\Black jacl\Black Jack\Black Jack\obj\Debug\net5.0-windows\Black Jack.dll
+G:\coding\Black jacl\Black Jack\Black Jack\obj\Debug\net5.0-windows\ref\Black Jack.dll
+G:\coding\Black jacl\Black Jack\Black Jack\obj\Debug\net5.0-windows\Black Jack.pdb
+G:\coding\Black jacl\Black Jack\Black Jack\obj\Debug\net5.0-windows\Black Jack.genruntimeconfig.cache
